@@ -1,0 +1,141 @@
+[
+    {
+        "category": "mouse",
+        "id": 0,
+        "brand": "Razer",
+        "title": "Razer Orochi V2",
+        "description": "A compact, ultra-lightweight wireless gaming mouse with the longest battery life that's second to none. Armed with both Razer HyperSpeed Wireless & Bluetooth modes, it's your perfect companion for a gaming on the go.",
+        "price": 69.99,
+        "colors": ["White", "Black", "Quartz"],
+        "specs": {
+            "Form Factor": "Right-Handed",
+            "Connectivity": "Razer™ HyperSpeed 2.4GHz wireless + Bluetooth®",
+            "Battery Life": "Up to 425 hours (2.4GHz), 950 hours (BLE) with included AA battery",
+            "RGB Lighting": "None",
+            "Sensor": "Optical",
+            "Max Sensitivity (DPI)": 18000,
+            "Max Speed (IPS)": 450,
+            "Max Acceleration (G)": 40,
+            "Programmable Buttons": 6,
+            "Switch Type": "2nd-gen Razer™ Mechanical Mouse Switches",
+            "Switch Lifecycle": "60 Million Clicks",
+            "On-Board Memory Profiles": "1",
+            "Mouse Feet": "Undyed PTFE mouse-feet",
+            "Cable": "None",
+            "Tilt Scroll Wheel": "None",
+            "Approximate Size": [
+                "Length: 108.0 mm / 4.25 in",
+                "Width: 62.6 mm / 2.46 in",
+                "Height: 38.5 mmm / 1.50 in"
+            ],
+            "Approximate Weight": "< 60 g / < 2.2 oz (Mass centralized)",
+            "Dock Compatibility": "None"
+        }
+    },
+    {
+        "category": "keyboard",
+        "id": 1,
+        "brand": "Razer",
+        "title": "Razer Huntsman V2 TKL",
+        "description": "Unrivalled responsiveness has never looked this lean. Meet the Razer Huntsman V2 TKL -a tenkeyless optical gaming keyboard with improved acoustics, near-zero input latency, and other high-end features to ensure a compact form factor geared for full-sized performance.",
+        "price": 159.99,
+        "colors": ["Black", "Quartz"],
+        "specs": {
+            "Switch Type": "Razer™ Linear Optical Switch",
+            "Key Feel": "Light and Instant",
+            "Approximate Size": "Tenkeyless",
+            "Lighting": "Razer Chroma™ RGB customizable backlighting with 16.8 million color options"
+        }
+    },
+    {
+        "category": "keyboard",
+        "id": 2,
+        "brand": "Razer",
+        "title": "Razer BlackWidow V3",
+        "description": "The name that started it all returns to reassert its dominance. Feel the difference with the Razer BlackWidow V3 -backed by a legacy as the first and most iconic mechanical gaming keyboard, and armed with new improved features including our world-renowned switches.",
+        "price": 139.99,
+        "colors": ["Black", "Quartz"],
+        "specs": {
+            "Switch Type": "Razer™ Green Mechanical Switch",
+            "Key Feel": "Tactile and clicky",
+            "Approximate Size": "FUll Size",
+            "Lighting": "Razer Chroma™ RGB customizable backlighting with 16.8 million color options"
+        }
+    },
+    {
+        "category": "mouse-pads",
+        "id": 3,
+        "brand": "Razer",
+        "title": "Razer Strider",
+        "description": "Experience a fusion of slick swipes and crisp control with the Razer Strider -a hybrid mouse mat that combines the glide of a hard surface with the rollable, portable nature of a soft base. Designed to offer the best of both worlds, the only choice you'll have to make is how you want to win.",
+        "price": 29.99,
+        "colors": ["Black", "Quartz"],
+        "specs": {
+            "Approximate Size": [
+                "Length: 450 mm / 17.73 in",
+                "Width: 400 mm / 15.76 in"
+            ],
+            "Thickness": "3 mm / 0.12 in",
+            "Surface": "Polyester",
+            "Mat Type": "Hybrid"
+        }
+    },
+    {
+        "category": "mouse-pads",
+        "id": 4,
+        "brand": "Razer",
+        "title": "Razer Goliathus Chroma",
+        "description": "Our bestselling soft gaming mouse mat is now powered by Razer Chroma™ RGB -ready to illuminate every victory in a stunning spectrum of colors. Watch your game light up with vivid brilliance as you swipe across the Razer Goliathus Chroma with speed and precision.",
+        "price": 99.99,
+        "colors": ["Black", "Quartz", "Mercury"],
+        "specs": {
+            "Approximate Size": [
+                "Length: 920 mm / 36.22 in",
+                "Width: 294 mm / 11.57 in"
+            ],
+            "Thickness": "3 mm / 0.12 in",
+            "Surface": "Soft",
+            "Mat Type": "Soft"
+        }
+    },
+    {
+        "category": "headset",
+        "id": 4,
+        "brand": "Razer",
+        "title": "Razer Barracuda",
+        "description": ".",
+        "price": 159.99,
+        "colors": ["Black", "Quartz", "Mercury"],
+        "specs": {
+            "Frequency Response": "20 Hz - 20 kHz",
+            "Impedance": "32 Ω (1 kHz)",
+            "Sensitivity": "96dBSPL/mW@1KHz by HATS",
+            "Driver Specifications": "50 mm",
+            "Driver Type": "Razer™ TriForce Titanium",
+            "Earcups": "Oval Ear Cushions",
+            "Inner Earcup Diameter": "62 mm x 42 mm",
+            "Earpads Material": "Pressure-Relieving Memory Foam",
+            "Noise Cancelling": "Passive Noise Isolation",
+            "Connection Type": "USB Type-C Wireless (2.4 GHz), Bluetooth 5.2, 3.5 mm Analog",
+            "Cable Length": "None",
+            "Approximate Weight": "300 g / 0.66 lbs",
+            "Microphone Style": "Dual Integrated ECM Beamforming Noise-Cancelling",
+            "Pick-Up Pattern": "Omnidirectional",
+            "Microphone Frequency Response": "100 Hz - 10 kHz",
+            "Microphone Sensitivity (@1kHz)": "-38 ± 1 dB",
+            "Virtual Surround Encoding": "THX Spatial Audio",
+            "Volume Control": "Volume up and down",
+            "Other Controls": [
+                "2.4GHz Wireless and Bluetooth Toggle (SmartSwitch)",
+                "Mic mute on/off toggle"
+            ],
+            "Battery Life": "Up to 40 hours",
+            "Lighting": "None",
+            "Compatibility": [
+                "PC (USB Type-C 2.4GHz, Bluetooth 5.2)",
+                "PlayStation (USB Type-A to USB Type-C 2.4GHz)",
+                "Mobile Devices (Supporting USB Type-C or Bluetooth 5.2)"
+            ]
+        }
+    }
+]
