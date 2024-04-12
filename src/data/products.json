@@ -7,29 +7,34 @@
         "description": "A compact, ultra-lightweight wireless gaming mouse with the longest battery life that's second to none. Armed with both Razer HyperSpeed Wireless & Bluetooth modes, it's your perfect companion for a gaming on the go.",
         "price": 69.99,
         "colors": ["White", "Black", "Quartz"],
+        "images": {
+            "White": "../assets/products/images/razer_orochi_white",
+            "Black": "../assets/products/images/razer_orochi_black",
+            "Quartz": "../assets/products/images/razer_orochi_quartz"
+        },
         "specs": {
-            "Form Factor": "Right-Handed",
+            "Form_Factor": "Right-Handed",
             "Connectivity": "Razer™ HyperSpeed 2.4GHz wireless + Bluetooth®",
-            "Battery Life": "Up to 425 hours (2.4GHz), 950 hours (BLE) with included AA battery",
-            "RGB Lighting": "None",
+            "Battery_Life": "Up to 425 hours (2.4GHz), 950 hours (BLE) with included AA battery",
+            "RGB_Lighting": "None",
             "Sensor": "Optical",
-            "Max Sensitivity (DPI)": 18000,
-            "Max Speed (IPS)": 450,
-            "Max Acceleration (G)": 40,
-            "Programmable Buttons": 6,
-            "Switch Type": "2nd-gen Razer™ Mechanical Mouse Switches",
-            "Switch Lifecycle": "60 Million Clicks",
-            "On-Board Memory Profiles": "1",
-            "Mouse Feet": "Undyed PTFE mouse-feet",
+            "Max_Sensitivity_(DPI)": 18000,
+            "Max_Speed_(IPS)": 450,
+            "Max_Acceleration_(G)": 40,
+            "Programmable_Buttons": 6,
+            "Switch_Type": "2nd-gen Razer™ Mechanical Mouse Switches",
+            "Switch_Lifecycle": "60 Million Clicks",
+            "On-Board_Memory_Profiles": "1",
+            "Mouse_Feet": "Undyed PTFE mouse-feet",
             "Cable": "None",
-            "Tilt Scroll Wheel": "None",
-            "Approximate Size": [
+            "Tilt_Scroll_Wheel": "None",
+            "Approximate_Size": [
                 "Length: 108.0 mm / 4.25 in",
                 "Width: 62.6 mm / 2.46 in",
                 "Height: 38.5 mmm / 1.50 in"
             ],
-            "Approximate Weight": "< 60 g / < 2.2 oz (Mass centralized)",
-            "Dock Compatibility": "None"
+            "Approximate_Weight": "< 60 g / < 2.2 oz (Mass centralized)",
+            "Dock_Compatibility": "None"
         }
     },
     {
@@ -40,14 +45,18 @@
         "description": "Unrivalled responsiveness has never looked this lean. Meet the Razer Huntsman V2 TKL -a tenkeyless optical gaming keyboard with improved acoustics, near-zero input latency, and other high-end features to ensure a compact form factor geared for full-sized performance.",
         "price": 159.99,
         "colors": ["Black", "Quartz"],
+        "images": {
+            "Black": "../assets/products/images/razer_huntsman_black",
+            "Quartz": "../assets/products/images/razer_huntsman_quartz"
+        },
         "specs": {
-            "Switch Type": "Razer™ Linear Optical Switch",
-            "Key Feel": "Light and Instant",
-            "Approximate Size": "Tenkeyless",
+            "Switch_Type": "Razer™ Linear Optical Switch",
+            "Key_Feel": "Light and Instant",
+            "Approximate_Size": "Tenkeyless",
             "Lighting": "Razer Chroma™ RGB customizable backlighting with 16.8 million color options",
-            "Wrist Rest": "Yes",
-            "On-Board Memory": "Hybrid onboard storage - up to 5 keybinding profiles",
-            "Media Keys": "None",
+            "Wrist_Rest": "Yes",
+            "On-Board_Memory": "Hybrid onboard storage - up to 5 keybinding profiles",
+            "Media_Keys": "None",
             "Passthrough": "None",
             "Connectivity": "Wired - Detachable USB-C braided fiber cable",
             "Keycaps": "Razer Doubleshot PBY Keycaps",
@@ -68,14 +77,18 @@
         "description": "The name that started it all returns to reassert its dominance. Feel the difference with the Razer BlackWidow V3 -backed by a legacy as the first and most iconic mechanical gaming keyboard, and armed with new improved features including our world-renowned switches.",
         "price": 139.99,
         "colors": ["Black", "Quartz"],
+        "images": {
+            "Black": "../assets/products/images/razer_blackwidow_black",
+            "Quartz": "../assets/products/images/razer_blackwidow_quartz"
+        },
         "specs": {
-            "Switch Type": "Razer™ Green Mechanical Switch",
-            "Key Feel": "Tactile and clicky",
-            "Approximate Size": "FUll Size",
+            "Switch_Type": "Razer™ Green Mechanical Switch",
+            "Key_Feel": "Tactile and clicky",
+            "Approximate_Size": "FUll Size",
             "Lighting": "Razer Chroma™ RGB customizable backlighting with 16.8 million color options",
-            "Wrist Rest": "Yes",
-            "On-Board Memory": "Hybrid onboard storage - up to 5 keybinding profiles",
-            "Media Keys": "Yes",
+            "Wrist_Rest": "Yes",
+            "On-Board_Memory": "Hybrid onboard storage - up to 5 keybinding profiles",
+            "Media_Keys": "Yes",
             "Passthrough": "None",
             "Connectivity": "Wired - Attached",
             "Keycaps": "UV-Coated ABS Keycaps",
@@ -92,82 +105,98 @@
         }
     },
     {
-        "category": "mouse-pads",
+        "category": "accesories",
+        "subcategory": "mouse-pads",
         "id": 3,
         "brand": "Razer",
         "title": "Razer Strider",
         "description": "Experience a fusion of slick swipes and crisp control with the Razer Strider -a hybrid mouse mat that combines the glide of a hard surface with the rollable, portable nature of a soft base. Designed to offer the best of both worlds, the only choice you'll have to make is how you want to win.",
         "price": 29.99,
         "colors": ["Black", "Quartz"],
+        "images": {
+            "Black": "../assets/products/images/razer_strider_black",
+            "Quartz": "../assets/products/images/razer_strider_quartz"
+        },
         "specs": {
-            "Approximate Size": [
+            "Approximate_Size": [
                 "Length: 450 mm / 17.73 in",
                 "Width: 400 mm / 15.76 in"
             ],
             "Thickness": "3 mm / 0.12 in",
             "Surface": "Polyester",
-            "Mat Type": "Hybrid",
-            "Chroma RBG": "None",
-            "Special Features": [
+            "Mat_Type": "Hybrid",
+            "Chroma_RGB": "None",
+            "Special_Features": [
                 "Proprietary Weaved Surface",
                 "Anti-fraying stitched edges"
             ]
         }
     },
     {
-        "category": "mouse-pads",
+        "category": "accesories",
+        "subcategory": "mouse-pads",
         "id": 4,
         "brand": "Razer",
         "title": "Razer Goliathus Chroma",
         "description": "Our bestselling soft gaming mouse mat is now powered by Razer Chroma™ RGB -ready to illuminate every victory in a stunning spectrum of colors. Watch your game light up with vivid brilliance as you swipe across the Razer Goliathus Chroma with speed and precision.",
         "price": 99.99,
         "colors": ["Black", "Quartz", "Mercury"],
+        "images": {
+            "Black": "../assets/products/images/razer_goliathus_black",
+            "Quartz": "../assets/products/images/razer_goliathus_quartz",
+            "Mercury": "../assets/products/images/razer_goliathus_mercury"
+        },
         "specs": {
-            "Approximate Size": [
+            "Approximate_Size": [
                 "Length: 920 mm / 36.22 in",
                 "Width: 294 mm / 11.57 in"
             ],
             "Thickness": "3 mm / 0.12 in",
             "Surface": "Soft",
-            "Mat Type": "Soft",
-            "Chroma RBG": "Yes",
-            "Special Features": [
+            "Mat_Type": "Soft",
+            "Chroma_RGB": "Yes",
+            "Special_Features": [
                 "None"
             ]
         }
     },
     {
         "category": "headset",
-        "id": 4,
+        "id": 5,
         "brand": "Razer",
         "title": "Razer Barracuda",
         "description": "Wether you're indoors or outdoors, it's all the same to the Razer Barracuda -a wireless hybrid headset designed for both home gaming and mobile entertainment. Fitted with integrated beamforming noise-cancelling mics, enjoy crystal-clear voice pickup no matter the environment. Backed by an intelligent dual-wireless design, conveniently switch between high-performance gaming at home and seamless mobile use on the streets.",
         "price": 159.99,
         "colors": ["Black", "Quartz", "Mercury"],
+        "images": {
+            "Black": "../assets/products/images/razer_barracuda_black",
+            "Quartz": "../assets/products/images/razer_barracuda_quartz",
+            "Mercury": "../assets/products/images/razer_barracuda_mercury"
+        },
         "specs": {
-            "Frequency Response": "20 Hz - 20 kHz",
+            "Frequency_Response": "20 Hz - 20 kHz",
             "Impedance": "32 Ω (1 kHz)",
             "Sensitivity": "96dBSPL/mW@1KHz by HATS",
-            "Driver Specifications": "50 mm",
-            "Driver Type": "Razer™ TriForce Titanium",
+            "Driver_Specifications": "50 mm",
+            "Driver_Type": "Razer™ TriForce Titanium",
             "Earcups": "Oval Ear Cushions",
-            "Inner Earcup Diameter": "62 mm x 42 mm",
-            "Earpads Material": "Pressure-Relieving Memory Foam",
-            "Noise Cancelling": "Passive Noise Isolation",
-            "Connection Type": "USB Type-C Wireless (2.4 GHz), Bluetooth 5.2, 3.5 mm Analog",
-            "Cable Length": "None",
-            "Approximate Weight": "300 g / 0.66 lbs",
-            "Microphone Style": "Dual Integrated ECM Beamforming Noise-Cancelling",
-            "Pick-Up Pattern": "Omnidirectional",
-            "Microphone Frequency Response": "100 Hz - 10 kHz",
-            "Microphone Sensitivity (@1kHz)": "-38 ± 1 dB",
-            "Virtual Surround Encoding": "THX Spatial Audio",
-            "Volume Control": "Volume up and down",
-            "Other Controls": [
+            "Inner_Earcup_Diameter": "62 mm x 42 mm",
+            "Earpads_Material": "Pressure-Relieving Memory Foam",
+            "Noise_Cancelling": "Passive Noise Isolation",
+            "Connection_Type": "USB Type-C Wireless (2.4 GHz), Bluetooth 5.2, 3.5 mm Analog",
+            "Cable_Length": "None",
+            "Approximate_Weight": "300 g / 0.66 lbs",
+            "Microphone_Style": "Dual Integrated ECM Beamforming Noise-Cancelling",
+            "Pick-Up_Pattern": "Omnidirectional",
+            "Microphone_Frequency_Response": "100 Hz - 10 kHz",
+            "Microphone_Sensitivity_(@1kHz)": "-38 ± 1 dB",
+            "Virtual_Surround_Encoding": "THX Spatial Audio",
+            "Volume_Control": "Volume up and down",
+            "Other_Controls": [
                 "2.4GHz Wireless and Bluetooth Toggle (SmartSwitch)",
                 "Mic mute on/off toggle"
             ],
-            "Battery Life": "Up to 40 hours",
+            "Battery_Life": "Up to 40 hours",
             "Lighting": "None",
             "Compatibility": [
                 "PC (USB Type-C 2.4GHz, Bluetooth 5.2)",
@@ -178,47 +207,187 @@
     },
     {
         "category": "headset",
-        "id": 4,
+        "id": 6,
         "brand": "Razer",
         "title": "Razer Kraken Kitty V2 PRO",
         "description": "Creating the cutest stream persona now comes in more ways than one. Switch up your style and light up your stream with a Razer Chroma™ RGB headset featuring 3 interchangeable ear designs, stream reactive lighting for next-level audience engagement, and a solid mic for crystal-clear voice capture.",
         "price": 199.99,
         "colors": ["Black", "Quartz"],
+        "images": {
+            "Black": "../assets/products/images/razer_kraken_kitty_black",
+            "Quartz": "../assets/products/images/razer_kraken_kitty_quartz"
+        },
         "specs": {
-            "Frequency Response": "20 Hz - 20 kHz",
+            "Frequency_Response": "20 Hz - 20 kHz",
             "Impedance": "32 Ω (1 kHz)",
             "Sensitivity": "96dBSPL/mW@1KHz by HATS",
-            "Driver Specifications": "50 mm",
-            "Driver Type": "Razer™ TriForce Titanium",
+            "Driver_Specifications": "50 mm",
+            "Driver_Type": "Razer™ TriForce Titanium",
             "Earcups": "Oval Ear Cushions",
-            "Inner Earcup Diameter": "62 mm x 42 mm",
-            "Earpads Material": "Heat-Transfer Fabric / Leatherette / Memory Foam",
-            "Noise Cancelling": "Passive Noise Isolation",
-            "Connection Type": "USB Type A",
+            "Inner_Earcup_Diameter": "62 mm x 42 mm",
+            "Earpads_Material": "Heat-Transfer Fabric / Leatherette / Memory Foam",
+            "Noise_Cancelling": "Passive Noise Isolation",
+            "Connection_Type": "USB Type A",
             "Cable Length": "2.0 m / 6.74 ft",
-            "Approximate Weight": [
+            "Approximate_Weight": [
                 "332 g / 0.73 lbs (Headset only)",
                 "20 g / 0.044 lbs (1 Kitty ear only)",
                 "20 g / 0.044 lbs (1 Bear ear only)",
                 "33.5 g / 0.074 lbs (1 Bunny ear only)",
                 "10.8 g / 0.0234 lbs (Detachable Mic)"
             ],
-            "Microphone Style": "Detachable Razer™ HyperClear Cardioid Mic",
-            "Pick-Up Pattern": "Unidirectional",
-            "Microphone Frequency Response": "100 Hz - 10 kHz",
-            "Microphone Sensitivity (@1kHz)": "-42 ± 3 dB",
-            "Virtual Surround Encoding": "THX Spatial Audio",
-            "Volume Control": "Volume up and down",
-            "Other Controls": [
+            "Microphone_Style": "Detachable Razer™ HyperClear Cardioid Mic",
+            "Pick-Up_Pattern": "Unidirectional",
+            "Microphone_Frequency_Response": "100 Hz - 10 kHz",
+            "Microphone_Sensitivity_(@1kHz)": "-42 ± 3 dB",
+            "Virtual_Surround_Encoding": "THX Spatial Audio",
+            "Volume_Control": "Volume up and down",
+            "Other_Controls": [
                 "Mic mute on/off toggle"
             ],
-            "Battery Life": "None",
+            "Battery_Life": "None",
             "Lighting": "Stream Reactive Razer Chroma™ RGB",
             "Compatibility": [
                 "PC",
                 "PlayStation",
                 "Nintendo Switch (docked mode)"
             ]
+        }
+    },
+    {
+        "category": "headset",
+        "id": 7,
+        "brand": "Razer",
+        "title": "Razer Kraken BT Kitty",
+        "description": "Be free to express your own killer kitty style with the Razer Kraken BT Kitty Edition—a wireless Bluetooth headset with custom kitty ear and headset lighting along with clear sounding 40mm drivers.",
+        "price": 99.99,
+        "colors": ["Kitty", "Hello_Kitty"],
+        "images": {
+            "Kitty": "../assets/products/images/razer_kraken_kitty_kitty",
+            "Hello_Kitty": "../assets/products/images/razer_kraken_kitty_hello_kitty"
+        },
+        "specs": {
+            "Frequency_Response": "20 Hz - 20 kHz",
+            "Impedance": "32 Ω (1 kHz)",
+            "Sensitivity": "96 dB/mW at 1kHz",
+            "Driver_Specifications": "40 mm",
+            "Driver_Type": "Dynamic Driver",
+            "Earcups": "Oval Ear Circumaeral",
+            "Inner_Earcup_Diameter": "102 mm x 88.5 mm",
+            "Earpads_Material": "Plush Leatherette with Foam",
+            "Noise_Cancelling": "Dual Mic Noise Cancellation",
+            "Connection_Type": "Bluetooth 5.0 connection",
+            "Cable Length": "None",
+            "Approximate_Weight": "298 g / 0.66 lbs",
+            "Microphone_Style": "ECM",
+            "Pick-Up_Pattern": "Omnidirectional",
+            "Microphone_Frequency_Response": "100 Hz - 10 kHz",
+            "Microphone_Sensitivity_(@1kHz)": "-38 ± 1 dB",
+            "Virtual_Surround_Encoding": "None",
+            "Volume_Control": "Volume up and down",
+            "Other_Controls": [
+                "Power On",
+                "Pairing",
+                "Multi-function button"
+            ],
+            "Battery_Life": [
+                "Up to 20 hours with Lighting On",
+                "Up to 50 hours with LIghting Off"
+            ],
+            "Lighting": "Stream Reactive Razer Chroma™ RGB",
+            "Compatibility": [
+                "PC",
+                "PlayStation",
+                "Nintendo Switch (docked mode)"
+            ]
+        }
+    }, 
+    {
+        "category": "accesories",
+        "subcategory": "bases",
+        "id": 8,
+        "brand": "Razer",
+        "title": "Razer Base Station V2 Chroma",
+        "description": "Streamline your setup with the Razer Base Station V2 Chroma—a USB hub headset stand powered by Razer Chroma™ RGB. Featuring a premium aluminum construction optimized for larger headsets, add it to your battlestation and create a central connection point for your most essential gaming devices.",
+        "price": 69.99,
+        "colors": ["Black", "Quartz", "Mercury"],
+        "images": {
+            "Black": "../assets/products/images/razer_base_black",
+            "Quartz": "../assets/products/images/razer_base_quartz",
+            "Mercury": "../assets/products/images/razer_base_mercury"
+        },
+        "specs": {
+            "At_A_Glance": [
+                "2 x USB 3.1 ports",
+                "1 x 3.5 mm combo port with built-in DAC",
+                "7.1 surround sound",
+                "Razer Chroma™ RGB",
+                "All-new aluminum construction",
+                "Enhanced height for larger headsets",
+                "Anti-slip base",
+                "1.8 m Cable length",
+                "Diameter base: 120 mm / 4.72 in",
+                "Height: 278 mm / 10.94 in",
+                "Weight: 460 g / 1 lbs"
+            ]
+        }
+    }, 
+    {
+        "category": "mic",
+        "id": 9,
+        "brand": "Razer",
+        "title": "Razer Seiren Mini",
+        "description": "Big sounds can come in small packages. Meet the Razer Seiren Mini—an ultra-compact condenser mic that's the perfect fit for professional grade-audio with any streaming or video call setup.",
+        "price": 49.99,
+        "colors": ["Black", "Quartz", "Mercury"],
+        "images": {
+            "Black": "../assets/products/images/razer_seiren_mini_black",
+            "Quartz": "../assets/products/images/razer_seiren_mini_quartz",
+            "Mercury": "../assets/products/images/razer_seiren_mini_mercury"
+        },
+        "specs": {
+            "Sample_Rate": "Min 44.1 kHz / max 48 kHz",
+            "Bit_Rate": "16 bit",
+            "Capsules": "Ø 14 mm condenser capsule",
+            "Polar_Patterns": "Supercardioid",
+            "Frequency_Response":"20 Hz - 20 kHz",
+            "Power_Required": "5V 500 mA (USB)",
+            "Sensitivity": "17.8 mV / Pa (at 1 kHz)",
+            "Max_SPL": "110 dB (THD > 1% at 1 kHz)",
+            "Impedance": "None",
+            "Power_Output": "None",
+            "THD": "< 0.1% (at 1 kHz)",
+            "Signal-To-Noise Ratio": "None",
+            "Connection_Type": "Micro USB to USB cable",
+            "Others": "None"
+        }
+    },
+    {
+        "category": "chair",
+        "id": 10,
+        "brand": "Razer",
+        "title": "Razer Enki",
+        "description": "Big sounds can come in small packages. Meet the Razer Seiren Mini—an ultra-compact condenser mic that's the perfect fit for professional grade-audio with any streaming or video call setup.",
+        "price": 499.99,
+        "colors": ["Black", "Quartz", "Black/Green"],
+        "images": {
+            "Black": "../assets/products/images/razer_enki_black",
+            "Quartz": "../assets/products/images/razer_enki_quartz",
+            "Black/Green": "../assets/products/images/razer_enki_black_green"
+        },
+        "specs": {
+            "Recommended_Weight": "< 136 kg / < 299 lbs",
+            "Recommended_Height": "166.5 cm - 204 cm / 5.5 in - 6.8 in",
+            "Chair_Cover_Material": "EPU Synthetic Leather",
+            "Base": "Aluminum Base",
+            "Frame": "Steel Frame",
+            "Armrests": "4D",
+            "Casters": "60 mm PU Coated casters",
+            "Gas_Lift_Class": "4",
+            "Foam_Type": "High density PU moulded foam",
+            "Adjustable_Back_Angle": "152 degrees",
+            "Adjustable_Lumbar_Cushion": "None",
+            "Adjustable_Headrest": "Premium Memory Foam Head Cushion"
         }
     }
 ]
