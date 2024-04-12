@@ -44,7 +44,20 @@
             "Switch Type": "Razer™ Linear Optical Switch",
             "Key Feel": "Light and Instant",
             "Approximate Size": "Tenkeyless",
-            "Lighting": "Razer Chroma™ RGB customizable backlighting with 16.8 million color options"
+            "Lighting": "Razer Chroma™ RGB customizable backlighting with 16.8 million color options",
+            "Wrist Rest": "Yes",
+            "On-Board Memory": "Hybrid onboard storage - up to 5 keybinding profiles",
+            "Media Keys": "None",
+            "Passthrough": "None",
+            "Connectivity": "Wired - Detachable USB-C braided fiber cable",
+            "Keycaps": "Razer Doubleshot PBY Keycaps",
+            "Others": [
+                "Razer™ HyperPolling Technology with up to true 8000 Hz polling rate",
+                "Fully programmable keys with on-the-fly macro recording",
+                "N-key roll-over with anti-ghosting",
+                "Gaming mode option",
+                "Aluminum matte top plate"
+            ]
         }
     },
     {
@@ -59,7 +72,23 @@
             "Switch Type": "Razer™ Green Mechanical Switch",
             "Key Feel": "Tactile and clicky",
             "Approximate Size": "FUll Size",
-            "Lighting": "Razer Chroma™ RGB customizable backlighting with 16.8 million color options"
+            "Lighting": "Razer Chroma™ RGB customizable backlighting with 16.8 million color options",
+            "Wrist Rest": "Yes",
+            "On-Board Memory": "Hybrid onboard storage - up to 5 keybinding profiles",
+            "Media Keys": "Yes",
+            "Passthrough": "None",
+            "Connectivity": "Wired - Attached",
+            "Keycaps": "UV-Coated ABS Keycaps",
+            "Others": [
+                "Multi-function digital roller",
+                "Razer Synapse 3 enabled",
+                "Cable routing options",
+                "N-key roll-over",
+                "Fully programmable keys with on-the-fly macro recording",
+                "Gaming mode option",
+                "1000 Hz Ultrapolling",
+                "Aluminum construction"
+            ]
         }
     },
     {
@@ -77,7 +106,12 @@
             ],
             "Thickness": "3 mm / 0.12 in",
             "Surface": "Polyester",
-            "Mat Type": "Hybrid"
+            "Mat Type": "Hybrid",
+            "Chroma RBG": "None",
+            "Special Features": [
+                "Proprietary Weaved Surface",
+                "Anti-fraying stitched edges"
+            ]
         }
     },
     {
@@ -95,7 +129,11 @@
             ],
             "Thickness": "3 mm / 0.12 in",
             "Surface": "Soft",
-            "Mat Type": "Soft"
+            "Mat Type": "Soft",
+            "Chroma RBG": "Yes",
+            "Special Features": [
+                "None"
+            ]
         }
     },
     {
@@ -103,7 +141,7 @@
         "id": 4,
         "brand": "Razer",
         "title": "Razer Barracuda",
-        "description": ".",
+        "description": "Wether you're indoors or outdoors, it's all the same to the Razer Barracuda -a wireless hybrid headset designed for both home gaming and mobile entertainment. Fitted with integrated beamforming noise-cancelling mics, enjoy crystal-clear voice pickup no matter the environment. Backed by an intelligent dual-wireless design, conveniently switch between high-performance gaming at home and seamless mobile use on the streets.",
         "price": 159.99,
         "colors": ["Black", "Quartz", "Mercury"],
         "specs": {
@@ -135,6 +173,51 @@
                 "PC (USB Type-C 2.4GHz, Bluetooth 5.2)",
                 "PlayStation (USB Type-A to USB Type-C 2.4GHz)",
                 "Mobile Devices (Supporting USB Type-C or Bluetooth 5.2)"
+            ]
+        }
+    },
+    {
+        "category": "headset",
+        "id": 4,
+        "brand": "Razer",
+        "title": "Razer Kraken Kitty V2 PRO",
+        "description": "Creating the cutest stream persona now comes in more ways than one. Switch up your style and light up your stream with a Razer Chroma™ RGB headset featuring 3 interchangeable ear designs, stream reactive lighting for next-level audience engagement, and a solid mic for crystal-clear voice capture.",
+        "price": 199.99,
+        "colors": ["Black", "Quartz"],
+        "specs": {
+            "Frequency Response": "20 Hz - 20 kHz",
+            "Impedance": "32 Ω (1 kHz)",
+            "Sensitivity": "96dBSPL/mW@1KHz by HATS",
+            "Driver Specifications": "50 mm",
+            "Driver Type": "Razer™ TriForce Titanium",
+            "Earcups": "Oval Ear Cushions",
+            "Inner Earcup Diameter": "62 mm x 42 mm",
+            "Earpads Material": "Heat-Transfer Fabric / Leatherette / Memory Foam",
+            "Noise Cancelling": "Passive Noise Isolation",
+            "Connection Type": "USB Type A",
+            "Cable Length": "2.0 m / 6.74 ft",
+            "Approximate Weight": [
+                "332 g / 0.73 lbs (Headset only)",
+                "20 g / 0.044 lbs (1 Kitty ear only)",
+                "20 g / 0.044 lbs (1 Bear ear only)",
+                "33.5 g / 0.074 lbs (1 Bunny ear only)",
+                "10.8 g / 0.0234 lbs (Detachable Mic)"
+            ],
+            "Microphone Style": "Detachable Razer™ HyperClear Cardioid Mic",
+            "Pick-Up Pattern": "Unidirectional",
+            "Microphone Frequency Response": "100 Hz - 10 kHz",
+            "Microphone Sensitivity (@1kHz)": "-42 ± 3 dB",
+            "Virtual Surround Encoding": "THX Spatial Audio",
+            "Volume Control": "Volume up and down",
+            "Other Controls": [
+                "Mic mute on/off toggle"
+            ],
+            "Battery Life": "None",
+            "Lighting": "Stream Reactive Razer Chroma™ RGB",
+            "Compatibility": [
+                "PC",
+                "PlayStation",
+                "Nintendo Switch (docked mode)"
             ]
         }
     }
